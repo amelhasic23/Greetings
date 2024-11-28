@@ -1,0 +1,7 @@
+F:\Greetings\Greetings\bin\Debug\Greetings.exe.config
+F:\Greetings\Greetings\bin\Debug\Greetings.exe
+F:\Greetings\Greetings\bin\Debug\Greetings.pdb
+F:\Greetings\Greetings\obj\Debug\Greetings.csproj.AssemblyReference.cache
+F:\Greetings\Greetings\obj\Debug\Greetings.csproj.CoreCompileInputs.cache
+F:\Greetings\Greetings\obj\Debug\Greetings.exe
+F:\Greetings\Greetings\obj\Debug\Greetings.pdb
